@@ -29,9 +29,15 @@ Envision a system which ensures flawless patient encounter at the outpatient dep
 
 ![graph1](https://user-images.githubusercontent.com/38392628/90521481-33423400-e188-11ea-8dbd-a2030089bd1b.png)
 
-
-
-
+## Key Features
+/ User Registration
+/ User Authentication
+/ Booking Page
+/ Search Hospitals
+/ Emergency
+/ Buy Medicine
+/ Lab test
+/ Weekly report for search and book
 
 
 
