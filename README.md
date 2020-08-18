@@ -4,3 +4,7 @@ Envision a system which ensures flawless patient encounter at the outpatient dep
 
 
 ![logo](https://user-images.githubusercontent.com/38392628/90519650-efe6c600-e185-11ea-9356-8ecb370cb086.png)
+
+
+![home](https://user-images.githubusercontent.com/38392628/90519891-4227e700-e186-11ea-9a6a-034aba1f8888.png)
+
